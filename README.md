@@ -1,5 +1,6 @@
 # Upload-php
 Upload php is a simple php class which cut the lengthy file uploading process to one line
+http://blog.hackerkernel.com/index.php/2015/08/25/upload-php-class/
 
 # How To Use
 1. Include the Upload.php <?php include("Upload.php"); ?>
